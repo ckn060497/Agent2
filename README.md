@@ -1,6 +1,12 @@
 # Agent2
 Small playground to test AI agent 
 
+
+"""
+Simple AI Chatbot — no external APIs, no internet required.
+Runs entirely locally using pattern matching + basic memory.
+"""
+
 ## Why?
 
 - Doing it just from frontend minimizes things one needs to do this. You just need a browser and text editor to modify and use this, not need to install and run anything else
